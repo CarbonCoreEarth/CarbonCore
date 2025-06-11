@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Website**: [carboncore.earth](https://carboncore.earth)
 - **Testnet**: [test.carboncore.earth](https://test.carboncore.earth)
-  **Documentation**: [github.com/CarbonCoreEarth/CarbonCore](https://github.com/CarbonCoreEarth/CarbonCore)
+- **Documentation**: [github.com/CarbonCoreEarth/CarbonCore](https://github.com/CarbonCoreEarth/CarbonCore)
 - **Support**: [info@carboncore.earth](mailto:info@carboncore.earth)
 
 ## 📞 Contact
