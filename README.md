@@ -147,15 +147,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Website**: [carboncore.earth](https://carboncore.earth)
 - **Testnet**: [test.carboncore.earth](https://test.carboncore.earth)
-- **Documentation**: [docs.carboncore.earth](https://docs.carboncore.earth)
-- **Support**: [support@carboncore.earth](mailto:support@carboncore.earth)
+//- **Documentation**: [docs.carboncore.earth](https://docs.carboncore.earth)
+- **Support**: [info@carboncore.earth](mailto:info@carboncore.earth)
 
 ## 📞 Contact
 
 - **Email**: info@carboncore.earth
-- **Twitter**: [@CarbonCoreEarth](https://twitter.com/CarbonCoreEarth)
-- **Discord**: [Join our community](https://discord.gg/carboncore)
-- **LinkedIn**: [CarbonCore.Earth](https://linkedin.com/company/carboncore-earth)
+//- **Twitter**: [@CarbonCoreEarth](https://twitter.com/CarbonCoreEarth)
+//- **Discord**: [Join our community](https://discord.gg/carboncore)
+//- **LinkedIn**: [CarbonCore.Earth](https://linkedin.com/company/carboncore-earth)
 
 ---
 
